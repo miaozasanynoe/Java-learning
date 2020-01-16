@@ -426,12 +426,12 @@ JavaWeb课程内容涉及：HTML5课程、CSS3、JavaScript、MySQL使用、JDBC
 
     15. Jquery JSON转换
 
-###Java框架
+### Java框架
 
     Java框架课程内容涉及：Spring、Spring MVC、MyBatis、SVN、Git、Maven
 
 
-#####第一部分：Spring
+##### 第一部分：Spring
 
     1. 框架原理介绍
 
@@ -467,7 +467,7 @@ JavaWeb课程内容涉及：HTML5课程、CSS3、JavaScript、MySQL使用、JDBC
 
     17. Web项目集成Spring
 
-#####第二部分：Spring MVC
+##### 第二部分：Spring MVC
 
     1. Spring MVC 概述
 
@@ -499,7 +499,7 @@ JavaWeb课程内容涉及：HTML5课程、CSS3、JavaScript、MySQL使用、JDBC
 
     15. 拦截器
 
-第三部分：MyBatis
+##### 第三部分：MyBatis
 
     1. MyBatis数据框架介绍
 
@@ -599,7 +599,7 @@ JavaWeb课程内容涉及：HTML5课程、CSS3、JavaScript、MySQL使用、JDBC
     15. 自动部署、持续集成、持续部署
 
 
-###参考资料：
+### 参考资料：
 >1.Tomcat的原理及架构：
 https://blog.csdn.net/jsj13263690918/article/details/80368757[https://blog.csdn.net/jsj13263690918/article/details/80368757]
 >2.Java学习路线：
