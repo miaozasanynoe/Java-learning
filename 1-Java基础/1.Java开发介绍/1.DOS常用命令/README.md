@@ -33,7 +33,8 @@ javap Hello
  javadoc -d javadoc Hello.java
 ```
     运行如图
-    ![javadoc图片]()
+
+![javadoc图片](https://github.com/miaozasanynoe/Java-learning/blob/master/public/images/Java-dos-3.png)
     点击链接即可以访问文档，
 > 5.多个文件同时操作
 
