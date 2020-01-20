@@ -39,6 +39,6 @@ javap Hello
 ![javadoc图片](https://github.com/miaozasanynoe/Java-learning/blob/master/public/images/Java-dos-3.png)
     
 
-    点击[链接](https://miaozasanynoe.github.io/Java-learning.github.io/javadoc/Hello.html)即可以访问文档，
+点击[链接](https://miaozasanynoe.github.io/Java-learning.github.io/javadoc/Hello.html)即可以访问文档，
 > 5.多个文件同时操作
 
